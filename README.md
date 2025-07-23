@@ -130,14 +130,14 @@ the screen position using the directional pad.
 
 ### Credits: (in no particular order)
 
-neopop_uk	        - For the neopop emulator, please see original readme for full original credits.
-7not6		        - For his precious help on debugging the cpu cores
-Drakonite	        - triple buffering idea, and lots of talk ;)
-<G>		            - GUI background/artwork.
-CC Team		        - for support and sponsoring.
-Hyriu		        - LibCDVD.
-Vzzrzzn, Sjeep	    - GfxPipe lib.
-Sjeep, Lukasz Bruun - Original (i)Sjpcm lib.
-PS2-Scene	        - For hosting
-PS2DEV		        - As all this won't be possible without the PS2SDK !
-Everyone Else       - Thanks for taking an interest....
+neopop_uk, For the neopop emulator, please see original readme for full original credits.
+7not6, For his precious help on debugging the cpu cores
+Drakonite, triple buffering idea, and lots of talk ;)
+<G>, GUI background/artwork.
+CC Team, for support and sponsoring.
+Hyriu, LibCDVD.
+Vzzrzzn, Sjeep, GfxPipe lib.
+Sjeep, Lukasz Bruun, Original (i)Sjpcm lib.
+PS2-Scene, For hosting
+PS2DEV, As all this won't be possible without the PS2SDK !
+Everyone Else, Thanks for taking an interest....
